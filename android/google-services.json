@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914586085604",
+    "firebase_url": "https://bouncypengu.firebaseio.com",
+    "project_id": "bouncypengu",
+    "storage_bucket": "bouncypengu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914586085604:android:48a4564f1bac6866",
+        "android_client_info": {
+          "package_name": "com.akakumo.bouncypengu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914586085604-o1adh1hv1spvjtm7ckgvdibtusfjqrj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa8u3UCMA-7AWlVj1ACDIBD7abt2kfnKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
